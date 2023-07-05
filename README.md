@@ -23,13 +23,13 @@
 ### Социальные сети:
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/erbol-kenzhebekov-51099a25b/"  target="_blank">
+    <a href="https://www.linkedin.com/in/erbol-kenzhebekov-51099a25b/" style="margin: 10px"  target="_blank">
       <img  src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="40" height="40" alt="linkedin" />
     </a>
-    <a href="https://t.me/anixiiH" target="_blank" style="marginLeft: 10px">
+    <a href="https://t.me/anixiiH" target="_blank" style="margin: 10px">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
     </a>
-    <a href="https://www.instagram.com/anixii_/" target="_blank" style="marginLeft: 10px">
+    <a href="https://www.instagram.com/anixii_/" target="_blank" style="margin: 10px">
       <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40" height="40" alt="Instagram"/>
     </a> 
   </div>
