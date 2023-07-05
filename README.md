@@ -47,7 +47,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp  
-  <img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" title='Firebase' width="40" height="40">&nbsp
+  <img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" title='Firebase' width="50" height="40">&nbsp
   <img src="https://profilinator.rishav.dev/skills-assets/chakraui.png" title="Chakra UI" alt="Chakra UI" width="40" height="40">&nbsp 
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;  
   <img src="https://img.icons8.com/?size=512&id=zdI5E8moxhs-&format=png" title="GraphQl" alt="GraphQl" width="40" height="40"/>&nbsp  
